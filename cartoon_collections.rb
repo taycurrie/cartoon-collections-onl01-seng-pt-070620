@@ -1,4 +1,3 @@
-
 dwarves = %w[
   Doc
   Dopey
